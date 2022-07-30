@@ -1,0 +1,6 @@
+[submodule "amazon-price-tracker-extension"]
+	path = amazon-price-tracker-extension
+	url = https://github.com/shyam-2002/amazon-price-tracker-extension
+[submodule "amazon-price-tracker-server"]
+	path = amazon-price-tracker-server
+	url = https://github.com/shyam-2002/amazon-price-tracker-server
